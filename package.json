@@ -1,0 +1,12 @@
+{
+    "name": "klokapp-bot",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "colors": "^1.4.0",
+        "dotenv": "^16.4.7",
+        "ethers": "^6.13.5",
+        "https-proxy-agent": "^7.0.2",
+        "lorem-ipsum": "^2.0.8",
+        "uuid": "^9.0.1"
+    }
+}
