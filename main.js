@@ -6,6 +6,7 @@ const colors = require('colors');
 const readline = require('readline');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 const ethers = require('ethers');
+const crypto = require('crypto');
 
 const CONFIG = {
   API_BASE_URL: 'https://api1-pp.klokapp.ai/v1',
